@@ -28,7 +28,7 @@ tipIds = [4, 8, 12, 16, 20]
 while True:
     success, img = cap.read()
     img = detector.findHands(img)
-    lmList = detector.findPosition(img, draw=False)
+    lmList = detector.findPosition(img, draw=True)
     # print(lmList)
 
     if len(lmList) != 0:
@@ -43,17 +43,23 @@ while True:
 
         # 4 ngón còn lại
         for id in range(1, 5):
-            if lmList[tipIds[id]][2] < lmList[tipIds[0]-1][2]:
+            if lmList[tipIds[id]][2] < lmList[tipIds[id]-1][2]:
                 fingers.append(1)
             else:
                 fingers.append(0)
 
-        # print(fingers)
+        print(fingers)
         totalFingers = fingers.count(1)
-        print(totalFingers)
+        #print(totalFingers)
+        for numFingers in range(1, 4):
+            if totalFingers == numFingers and fingers[0] == 1:
+                totalFingers += 5
+        
+        if lmList[tipIds[1]][1] > lmList[tipIds[1]-1][1] and lmList[tipIds[1]][2] >= lmList[tipIds[1]-1][2]:
+            totalFingers = 9
 
-        h, w, c = overlayList[totalFingers - 1].shape
-        img[0:h, 0:w] = overlayList[totalFingers - 1]
+        # h, w, c = overlayList[totalFingers - 1].shape
+        # img[0:h, 0:w] = overlayList[totalFingers - 1]
 
         # cv2.rectangle(img, (20, 225), (170, 425), (0, 255, 0), cv2.FILLED)
         cv2.putText(img, str(totalFingers), (45, 375), cv2.FONT_HERSHEY_PLAIN,
