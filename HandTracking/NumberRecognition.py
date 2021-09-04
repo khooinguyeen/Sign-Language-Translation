@@ -51,6 +51,7 @@ while True:
         print(fingers)
         totalFingers = fingers.count(1)
         #print(totalFingers)
+        # Nhận diện 6 - 9
         for numFingers in range(1, 4):
             if totalFingers == numFingers and fingers[0] == 1:
                 totalFingers += 5
