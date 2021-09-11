@@ -55,7 +55,7 @@ while True:
         for numFingers in range(1, 4):
             if totalFingers == numFingers and fingers[0] == 1:
                 totalFingers += 5
-        
+            
         if lmList[tipIds[1]][1] > lmList[tipIds[1]-1][1] and lmList[tipIds[1]][2] >= lmList[tipIds[1]-1][2]:
             totalFingers = 9
 
