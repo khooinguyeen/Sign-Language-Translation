@@ -47,6 +47,22 @@ def draw_styled_landmarks(img, results):
         rh = np.array([[res.x, res.y, res.z] for res in results.right_hand_landmarks.landmark]).flatten() if results.right_hand_landmarks else np.zeros(21*3)
         return np.concatenate([pose, face, lh, rh])
 
+# Path for data, numpy arrays
+DATA_PATH = os.path.join('Data')
+
+# Action to detect
+actions = np.array(['hello', 'thanks', 'iloveyou'])
+
+# 30 videos worth of data
+no_sequences = 30
+
+for action in actions:
+    for sequence in range(no_sequences):
+        try:
+            os.makedirs(os.path.join(DATA_PATH, action, str(sequence)))
+        except:
+            pass
+
 cap = cv2.VideoCapture(0)
 
 with mp_holistic.Holistic(min_detection_confidence = 0.5, min_tracking_confidence = 0.5) as holistic:
