@@ -10,7 +10,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, wCam)
 cap.set(4, hCam)
 
-folderPath = "Data"
+folderPath = "Sign Language Translator/Data"
 myList = os.listdir(folderPath)
 print(myList)
 overlayList = []
