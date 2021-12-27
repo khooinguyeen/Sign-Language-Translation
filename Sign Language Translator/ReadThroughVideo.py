@@ -44,7 +44,7 @@ def draw_styled_landmarks(image, results):
                              mp_drawing.DrawingSpec(color=(245,66,230), thickness=2, circle_radius=2)
                              ) 
 
-cap = cv2.VideoCapture('Videos/JumpRope.mp4')
+cap = cv2.VideoCapture('Videos/oe.mp4')
 with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5) as holistic:
     while cap.isOpened():
         ret, frame = cap.read()
