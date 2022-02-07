@@ -5,6 +5,8 @@ This folder contains the model code for the app "Look & Tell"
 
 * [Look & Tell (Beta) - communication support solution for deaf people with artificial intelligence](https://github.com/khooinguyeen/LookandTell-OfficialApp)
 
+![Look & Tell](Sign%20Language%20Translator/Demo/lookandtell.jpg)
+
 # 1. About this code
 * A deep-learning neural network for hand action recognition, made by Vietnamese students, to translate Vietnamese sign language
 
