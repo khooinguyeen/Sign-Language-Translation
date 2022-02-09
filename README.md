@@ -1,5 +1,7 @@
 # LNT model for recognizing Vietnamese sign language
-(Look & Tell model for my app)
+
+![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Tensorflow](https://img.shields.io/badge/Framework-Tensorflow-important?logo=tensorflow)
 
 This folder contains the model code for the app "Look & Tell"
 
