@@ -51,5 +51,8 @@ Sign Language Translator\CollectData.ipynb
 * **My cute little neighbour Kiet testing the model :>**
 ![](Sign%20Language%20Translator/Demo/tôi%20thích%20ăn%20mì.gif)
 
+* **My friend testing the model**
+![](Sign%20Language%20Translator/Demo/tôi%20đi%20siêu%20thị.gif)
+
 # 4. Contact
 * If you appreciate the humanity of the project or have a problem or even just want to talk to us, please contact us via email: **khoinguyenmai17102005@gmail.com**
