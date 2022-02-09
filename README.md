@@ -2,6 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
 ![Tensorflow](https://img.shields.io/badge/Framework-Tensorflow-important?logo=tensorflow)
+![Numpy](https://img.shields.io/badge/Package-Numpy-%23150458?logo=numpy)
+![OpenCV](https://img.shields.io/badge/Library-OpenCV-%23white?logo=opencv)
 
 This folder contains the model code for the app "Look & Tell"
 
