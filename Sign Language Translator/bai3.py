@@ -1,1 +1,0 @@
-print(input("Enter S: ").replace('anh', 'em'))
