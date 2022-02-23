@@ -31,10 +31,10 @@ git clone https://github.com/khooinguyeen/Sign-Language-Translator.git
 !pip install tensorflow==2.5.0 tensorflow-gpu==2.5.0 opencv-python mediapipe sklearn matplotlib
 ```
 
-### (3) go to the file [ActionDetection.ipynb](https://github.com/khooinguyeen/Sign-Language-Translator/blob/main/Sign%20Language%20Translator/ActionDetection.ipynb) to play with ipython notebooks and run the model
+### (3) go to the file [RunModel.ipynb](https://github.com/khooinguyeen/Sign-Language-Translation/blob/main/Sign%20Language%20Translator/RunModel.ipynb) to play with ipython notebooks and run the model
 * Relative path:
 ```
-Sign Language Translator\ActionDetection.ipynb
+Sign Language Translator\RunModel.ipynb
 ```
 
 ### (4) to collect more data by your own, go to the file [CollectData.ipynb](https://github.com/khooinguyeen/Sign-Language-Translator/blob/main/Sign%20Language%20Translator/CollectData.ipynb)
