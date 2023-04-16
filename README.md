@@ -15,10 +15,14 @@ This folder contains the model code for the app "Look & Tell"
 # 1. About this code
 * A deep-learning neural network for hand action recognition, made by Vietnamese students, to translate Vietnamese sign language
 
-# 2. Motivation
-* The story begins when Kiet becomes my neighbor, he is a born deaf, ie since he was born, he has not been able to hear his mother's voice. And every day, for 10 years - until now, that child is in 5th grade, I have witnessed every day that the child struggles, has difficulty in expressing the simplest wishes of an elementary school child.
-* Learn about the deaf and hard of hearing, there are currently 1.5 billion speech and hearing impaired people in the world, and 2.5 million people in Vietnam - a huge community! However, it entails a huge economic burden for countries. According to a 2015 WHO report, the cost of speech and hearing impairment ranges from $750 to $790 billion. By 2019 it will exceed $981 billion (according to Global Burden Disease), mainly due to community and social costs - an too great economic burden for countries. * In Vietnam, the number of qualified sign language interpreters is only about 20 people, and there are no reasonable communication support products (only 1 product is produced by a student of Ho Chi Minh City University of Science and Technology but requires an additional one). equipment costs nearly 1 million VND), while conducting a survey of 250 people including deaf and hard of hearing people, it was found that nearly 100% of people want to create a bridge to integrate and really need a product that supports communication. 
-* **With the desire to talk with Kiet (my neighbor) as well as all the deaf and hard of hearing people in the world, my friend and I decided to do this project.**
+# 2. Morality and 
+* Kiet, my born deaf neighbor, has not been able to hear his mother's voice. For 10 years from now, the 5 grader kid has been having difficulty expressing the simplest wishes of an elementary school child - hearing the life.
+
+* As can be seen from external statistics about hearing difficulties, there are currently 1.5 billion speech and hearing impaired people in the world (approximately 2.5 million people in Vietnam). However, it entails a huge economic burden for rising countries such as South East Asia countries including Vietnam. According to a 2015 WHO report, the costs of speech and hearing impairment range from $750 to $790 billion. 
+
+* In Vietnam, only a small handful of 20 people have created qualified sign language interpreters. There was no other reasonable communication support product than the one made by Ho Chi Minh City University of Science and Technology. However, the equipment costs nearly 1 million VND during the conduction of a 250 deaf and hard of hearing people survey. Results showed that nearly all of the surveyed people want to support this type of product. 
+
+* **With the desire to communicate with Kiet (my neighbor) as well as all the hearing deprived people in the world, my friend and I settled to create this project.**
 
 # 3. How to use this code
 ### (1) clone LNT
@@ -45,15 +49,14 @@ Sign Language Translator\CollectData.ipynb
 
 # 3. Demo
 * **Me testing the model :>**
-![](Demo/../Sign%20Language%20Translator/Demo/bạn%20hiểu%20ngôn%20ngữ%20ký%20hiệu%20không.gif)
-
-
+![mkn](https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif)
 
 * **My cute little neighbour Kiet testing the model :>**
-![](Sign%20Language%20Translator/Demo/tôi%20thích%20ăn%20mì.gif)
+![kiet](https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif)
 
 * **My friend testing the model**
-![](Sign%20Language%20Translator/Demo/tôi%20đi%20siêu%20thị.gif)
+![classmate](https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif)
+
 
 # 4. Contact
-* If you appreciate the humanity of the project or have a problem or even just want to talk to us, please contact us via email: **khoinguyenmai17102005@gmail.com**
+* If you appreciate the humanity of the project, have any problem, want to talk, or even just want to contribute to our project. Please contact us via email: **khoinguyenmai17102005@gmail.com**
