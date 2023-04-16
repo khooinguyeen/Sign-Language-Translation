@@ -50,15 +50,15 @@ Sign Language Translator\CollectData.ipynb
 # 3. Demo
 * **Me testing the model :>**
 
-                                ![](https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif)
+     ![](https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif)
 
 * **My cute little neighbour Kiet testing the model :>**
 
-                                 ![](https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif)
+     ![](https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif)
 
 * **My friend testing the model**
 
-                                 ![](https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif)
+     ![](https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif)
 
 
 # 4. Contact
