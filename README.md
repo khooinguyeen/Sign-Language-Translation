@@ -10,17 +10,17 @@ This folder contains the model code for the app "Look & Tell"
 
 * [Look & Tell (Beta) - communication support solution for deaf people with artificial intelligence](https://github.com/khooinguyeen/LookandTell-OfficialApp)
 
-<img src="https://github.com/khooinguyeen/Sign-Language-Translator/blob/main/Sign%20Language%20Translator/Demo/lookandtell.png" width="400">
+<p align="center"> <img src="https://github.com/khooinguyeen/Sign-Language-Translator/blob/main/Sign%20Language%20Translator/Demo/lookandtell.png" width="400"> </p>
 
 # 1. About this code
 * A deep-learning neural network for hand action recognition, made by Vietnamese students, to translate Vietnamese sign language
 
-# 2. Morality and 
-* Kiet, my born deaf neighbor, has not been able to hear his mother's voice. For 10 years from now, the 5 grader kid has been having difficulty expressing the simplest wishes of an elementary school child - hearing the life.
+# 2. Story of inspiration
+* Kiet, my deaf neighbor, has mever been able to hear his mother's voice ever since he was born.  the 5 grader kid has been having difficulty expressing the simplest wishes of an elementary school child - hearing the life.
 
 * As can be seen from external statistics about hearing difficulties, there are currently 1.5 billion speech and hearing impaired people in the world (approximately 2.5 million people in Vietnam). However, it entails a huge economic burden for rising countries such as South East Asia countries including Vietnam. According to a 2015 WHO report, the costs of speech and hearing impairment range from $750 to $790 billion. 
 
-* In Vietnam, only a small handful of 20 people have created qualified sign language interpreters. There was no other reasonable communication support product than the one made by Ho Chi Minh City University of Science and Technology. However, the equipment costs nearly 1 million VND during the conduction of a 250 deaf and hard of hearing people survey. Results showed that nearly all of the surveyed people want to support this type of product. 
+* In Vietnam, only a handful of 20 people have created qualified sign language interpreters. There was no other reasonable communication support product than the one made by Ho Chi Minh City University of Science and Technology. However, the equipment costs nearly 1 million VND to conduct a 250 deaf and hard of hearing people survey. Results showed that nearly all of the surveyed people want to support this type of product. 
 
 * **With the desire to communicate with Kiet (my neighbor) as well as all the hearing deprived people in the world, my friend and I settled to create this project.**
 
@@ -49,16 +49,22 @@ Sign Language Translator\CollectData.ipynb
 
 # 3. Demo
 * **Me testing the model :>**
-     
-     <img src="https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif" width="900">
-     <img src="https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif" style="vertical-align:middle;margin:0px 50px">
-* **My cute little neighbour Kiet testing the model :>**
-* 
-     ![](https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif)
 
+#
+<p align="center"> <img src="https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif" width="530" height="400" /> </p>
+
+#
+* **My cute little neighbour Kiet testing the model :>**
+
+#
+<p align="center"> <img src="https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif" width="550" height="400" /> </p>
+
+#
 * **My friend testing the model**
-* 
-     ![](https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif)
+
+#
+<p align="center"> <img src="https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif" width="550" height="400" /> </p>
+
 
 
 # 4. Contact
