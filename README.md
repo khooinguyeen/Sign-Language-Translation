@@ -49,15 +49,13 @@ Sign Language Translator\CollectData.ipynb
 
 # 3. Demo
 * **Me testing the model :>**
-     *First model: Ban hieu ngon ngu ky hieu khong
-     ![](https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif)
+     
+     <img src="https://user-images.githubusercontent.com/91497379/232302443-5b7f3eaa-874e-4c1d-b8fc-25540bc2368d.gif" width="400">
 
 * **My cute little neighbour Kiet testing the model :>**
-     *Second model: Toi thich an my
      ![](https://user-images.githubusercontent.com/91497379/232302456-e1b7a9f2-434b-4849-85b7-20144b6c9797.gif)
 
 * **My friend testing the model**
-     *Third model: Toi di sieu thi
      ![](https://user-images.githubusercontent.com/91497379/232302501-008143b3-b291-410c-8053-c9883724eda4.gif)
 
 
